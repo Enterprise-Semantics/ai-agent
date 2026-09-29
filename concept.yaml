@@ -101,3 +101,15 @@ mappings:
     note: AI Agent bears WSF Capability.
 created: 2026-09-03
 updated: 2026-09-03
+
+
+# disposition_note (2026-09-28)
+disposition: profile (canonical-reject per ES-ADR-037 Disposition Recon, Accepted 2026-09-28)
+disposition_authority: Emmanuel A. Otchere (cardinal author rule, 2026-09-24)
+note: |
+  This concept record is now a Deprecated reference stub.
+  AI Agent is realized as the ai-agent profile family over
+  ES:CONCEPT:agent with AI as the realization substrate
+  for interpretation, decision selection, or action selection.
+  See enterprise-semantics: registry/profiles/ai-agent.profile.yaml
+  (ES-037 Accepted 2026-09-28) for the canonical place.
