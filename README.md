@@ -1,15 +1,19 @@
+# Ai Agent
+
+> **Topic:** `concept` (Enterprise-Semantics per-concept repository, ES-ADR-049 + CR-ES-049)
+
 # concept-ai-agent
 
-> Ai Agent ;;; Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
+> Ai Agent, Authoritative concept repository, self-contained per ES-ADR-049 + CR-ES-049.
 
 ## Quick Index
 
-- [None](None) ;;; Authoritative concept record
-- [kit/](kit/) ;;; Conformance test kit (manifest + 0 tests)
-- [docs/](docs/) ;;; 5 documentation files (definition, conformance, target-architectures, capability-maturity-model, assessment, measurement)
-- [mappings/](mappings/) ;;; 1 cross-program mappings
-- [examples/](examples/) ;;; 1 example instance(s)
-- [visuals/](visuals/) ;;; 1 illustration file(s)
+- [None](None), Authoritative concept record
+- [kit/](kit/), Conformance test kit (manifest + 0 tests)
+- [docs/](docs/), 5 documentation files (definition, conformance, target-architectures, capability-maturity-model, assessment, measurement)
+- [mappings/](mappings/), 1 cross-program mappings
+- [examples/](examples/), 1 example instance(s)
+- [visuals/](visuals/), 1 illustration file(s)
 
 ## Author
 
